@@ -6,3 +6,10 @@ build
 .toolchain
 .mason
 local.env
+.buckd
+buck-out
+cache
+buckaroo
+buckaroo-packages
+.buckconfig.local
+BUCKAROO_DEPS

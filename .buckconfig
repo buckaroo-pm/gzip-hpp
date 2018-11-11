@@ -1,0 +1,3 @@
+[repositories]
+  buckaroo.github.buckaroo-pm.catch2 = ./buckaroo-packages/github/buckaroo-pm/catch2
+  buckaroo.github.buckaroo-pm.madler-zlib = ./buckaroo-packages/github/buckaroo-pm/madler-zlib

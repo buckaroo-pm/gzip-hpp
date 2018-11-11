@@ -1,0 +1,9 @@
+targets = [ "//:gzip-hpp" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/catch2"
+version = "1.12.1"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/madler-zlib"
+version = "branch=master"

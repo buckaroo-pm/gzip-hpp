@@ -1,0 +1,10 @@
+cxx_binary(
+  name = 'test', 
+  srcs = glob([
+    '**/*.cpp', 
+  ]), 
+  deps = [
+    '//:gzip-hpp', 
+    'buckaroo.github.buckaroo-pm.catch2//:catch', 
+  ], 
+)
